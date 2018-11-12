@@ -13,22 +13,22 @@ Structure your data as follows:
 	data/
 		training/
 			class_a/
-		    	class_a01.jpg
-		    	class_a02.jpg
-		    	...
+				class_a01.jpg
+				class_a02.jpg
+				...
 			class_b/
-		    	class_b01.jpg
-		    	class_b02.jpg
-		    	...
+				class_b01.jpg
+				class_b02.jpg
+				...
 		validation/
 			class_a/
-		    	class_a01.jpg
-		    	class_a02.jpg
-		    	...
+				class_a01.jpg
+				class_a02.jpg
+				...
 			class_b/
-		    	class_b01.jpg
-		    	class_b02.jpg
-		    	...
+				class_b01.jpg
+				class_b02.jpg
+				...
 
 For binary classifications you are good to go!
 
