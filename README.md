@@ -6,6 +6,10 @@
 
 Python Jupyter Notebook with **Convolutional Neural Network** image classifier implemented in **Keras** 🖼️. It's **[Google Colab](https://colab.research.google.com/)** ready.
 
+Check out corresponding Medium article:
+
+[Image Classifier - Cats🐱 vs Dogs🐶 with Convolutional Neural Networks (CNNs) and Google Colab’s Free GPU](https://towardsdatascience.com/image-classifier-cats-vs-dogs-with-convolutional-neural-networks-cnns-and-google-colabs-4e9af21ae7a8)
+
 ## Usage
 
 Structure your data as follows:
