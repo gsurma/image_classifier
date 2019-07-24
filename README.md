@@ -287,3 +287,19 @@ For non-binary classifications:
 <br>
 
 <img src="models/model_5/model_5_validation.png" width="500">
+
+## Author
+
+**Greg (Grzegorz) Surma**
+
+[**PORTFOLIO**](https://gsurma.github.io)
+
+[**GITHUB**](https://github.com/gsurma)
+
+[**BLOG**](https://medium.com/@gsurma)
+
+<a href="https://www.paypal.com/paypalme2/grzegorzsurma115">
+  <img alt="Support via PayPal" src="https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg"/>
+</a>
+
+
